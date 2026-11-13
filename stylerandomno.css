@@ -1,0 +1,23 @@
+body {
+    font-family: Geneva;
+    text-decoration: overline;
+    text-align: center;
+    text-shadow: 0cqh;
+    
+
+}
+#myButton{ /*  my button identify id and . button is used to classsify class in css*/
+    font-size: xx-large;
+    padding:9px 29px;
+    border-radius: 9px;
+    color:#db1919;
+    background-color: rgb(217, 99, 83);
+    background-image: -moz-repeating-linear-gradient();
+    list-style-image: -o-linear-gradient();
+
+}
+
+#mylabel{
+    font-style: oblique;
+    font-display: block;
+}

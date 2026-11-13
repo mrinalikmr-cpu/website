@@ -1,0 +1,26 @@
+#countlable {
+    display: block;
+    text-align: center;
+    font-size: 10cm;
+    font-family: Helvetica;
+}
+
+#btncontainer {
+    text-align: centre;
+}
+
+/* btncontainer holds all the butoons hold in css we insruct the  css */
+
+.buttons {
+    /*this gives all your butoon matching uniforms so they look like  real game controller here wee define button class and make changes  */
+    padding: 10px 20px;
+    font-size: 1.5cm;
+    color: rgb(124, 96, 233);
+    background-color: rgb(178, 178, 207);
+    border-radius : 5px;
+    cursor: poninter;
+    transition: background-colour 0.25s;
+} /*  .buttonhover is a pseudo class selector that apply specific styles to any element with the classs button*/
+.buttons:hover{
+    background-color:rgb(53, 214, 160)
+}
